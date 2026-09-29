@@ -1,0 +1,6 @@
+{
+  "name": "NovaChat",
+  "description": "A full-featured AI chat platform inspired by ChatGPT with real-time streaming, multimodal vision, web search grounding, conversation branching, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
